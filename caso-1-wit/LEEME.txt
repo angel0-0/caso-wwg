@@ -1,0 +1,8 @@
+Caso 1 - Worldwide Industrial Trading (WIT)
+
+bocetos/                       8 bocetos de baja fidelidad. Solo referencia; no se publican.
+piezas-terminadas/             3 piezas de datos o proceso (posts 1, 5 y 6) y la demostracion del post 2.
+post-2-de-boceto-a-pieza.png   Comparacion entre la referencia y la pieza con foto real.
+
+La foto del post 2 viene del sitio publico de WIT y se usa solo como demostracion.
+Los captions, el plan, el flujo y el criterio editorial estan en el documento de respuestas.
